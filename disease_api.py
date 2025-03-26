@@ -21,6 +21,11 @@ class SymptomsInput(BaseModel):
     symptoms: str  # User enters symptoms as a single string
 
 
+@app.get("/")
+def home():
+    return {"message": "Disease Prediction API is Live!"}
+
+
 @app.post("/predict")
 def predict_disease(data: SymptomsInput):
     # Transform symptoms using trained TF-IDF vectorizer
