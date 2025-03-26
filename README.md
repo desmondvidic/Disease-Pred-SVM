@@ -1,6 +1,6 @@
 # 🏥 Disease Prediction Model using SVM
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/your-username/disease-prediction-svm?style=social) ![GitHub Forks](https://img.shields.io/github/forks/your-username/disease-prediction-svm?style=social)
+![GitHub Repo Stars](https://img.shields.io/github/stars/desmondvidic/Disease-Pred-SVM?style=social) ![GitHub Forks](https://img.shields.io/github/forks/desmondvidic/Disease-Pred-SVM?style=social)
 
 ## 📌 Overview
 This project implements a **Disease Prediction Model** using **Support Vector Machine (SVM)**. The model predicts potential diseases based on input symptoms, leveraging machine learning techniques for high accuracy.
